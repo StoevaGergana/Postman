@@ -65,7 +65,7 @@ This API TestSuite covers **functional, negative, and security tests**, providin
 ## Screenshots
 
 ### ✅ Create Task - Success (201 Created)
-![Create Task Success](screenshots/1_create_task_success.png)
+![Create Task Success](screenshots/1_create_task_valid_data.png)
 
 ### ❌ Create Task - Missing Title (400 Bad Request)
 ![Create Task Fail](screenshots/2_create_task_fail.png)
