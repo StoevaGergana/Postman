@@ -66,15 +66,18 @@ This API TestSuite covers **functional, negative, and security tests**, providin
 
 ### ✅ Create Task - Success (201 Created)
 This test verifies that the API successfully creates a new task when valid data is provided and returns the correct status code and response body.
-![Create Task Success](screenshots/1_create_task_valid_data.png)
+
+<img src="screenshots/1_create_task_valid_data.png" width="600">
 
 
 ### ❌ Create Task - Missing Title (400 Bad Request)
 This test verifies that the API correctly validates required fields and returns an error when the title is missing.
+
 <img src="screenshots/2_create_task_missing_title.png" width="600">
 
 
 ### 🔐 SQL Injection Test
 This test verifies that the API is protected against SQL injection attacks and properly handles malicious input without exposing or compromising data.
-![SQL Injection](screenshots/3_sql_injection_search.png)
+
+<img src="screenshots/3_sql_injection_search.png" width="600">
 
