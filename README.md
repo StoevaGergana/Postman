@@ -65,11 +65,11 @@ This API TestSuite covers **functional, negative, and security tests**, providin
 ## Screenshots
 
 ### ✅ Create Task - Success (201 Created)
-![Create Task Success](screenshots/create-task-success.png)
+![Create Task Success](screenshots/1_create_task_success.png)
 
 ### ❌ Create Task - Missing Title (400 Bad Request)
-![Create Task Fail](screenshots/create-task-fail.png)
+![Create Task Fail](screenshots/2_create_task_fail.png)
 
 ### 🔐 SQL Injection Test
-![SQL Injection](screenshots/sql-injection-test.png)
+![SQL Injection](screenshots/3_sql_injection_test.png)
 
