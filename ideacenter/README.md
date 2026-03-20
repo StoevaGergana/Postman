@@ -71,36 +71,36 @@ This test verifies that the API successfully returns a list of all ideas.
 ### ✅ Create User (200 OK)
 This test verifies that a new user can be successfully registered with valid data.
 
-<img src="ideacenter/screenshots/create-user.png" width="600">
+<img src="screenshots/create-user.png" width="600">
+
 
 ---
 
 ### ✅ Authentication Token (200 OK)
 This test verifies that the API returns a valid authentication token when correct credentials are provided.
 
-<img src="ideacenter/screenshots/authentication-token.png" width="600">
+<img src="screenshots/authentication-token.png" width="600">
 
 ---
 
 ### ✅ Create Idea (200 OK)
 This test verifies that a new idea can be successfully created with valid input data.
 
-<img src="ideacenter/screenshots/create-idea.png" width="600">
+<img src="screenshots/create-idea.png" width="600">
 
 ---
 
 ### ✅ Edit Idea (200 OK)
 This test verifies that an existing idea can be successfully updated.
 
-<img src="ideacenter/screenshots/edit-idea.png" width="600">
+<img src="screenshots/edit-idea.png" width="600">
 
 ---
 
 ### ✅ Delete Idea (200 OK)
 This test verifies that an idea can be successfully deleted by ID.
 
-<img src="ideacenter/screenshots/delete-idea.png" width="600">
-
+<img src="screenshots/delete-idea.png" width="600">
 ---
 
 ## Notes
