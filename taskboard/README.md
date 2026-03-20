@@ -56,6 +56,13 @@ This API TestSuite covers **functional, negative, and security tests**, providin
 
 ---
 
+## How to Run
+1. Import the collection into Postman
+2. Select the correct environment (if any)
+3. Run requests individually or as a **collection runner**
+4. Observe responses and test assertions
+
+---
 ## Folder Structure in Postman
 
 📁 Functional Tests: 📁 Positive Tests 📁 Negative Tests
