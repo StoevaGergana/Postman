@@ -46,7 +46,7 @@ The token is generated via:
 POST /api/User/Authentication
 
 Example: 
-Authorization: Bearer accessToken
+Authorization: ```Bearer accessToken```
 
 
 ---
