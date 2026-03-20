@@ -45,7 +45,8 @@ All endpoints require Bearer Token authentication.
 The token is generated via:
 POST /api/User/Authentication
 
-Example: Authorization: Bearer {{accessToken}}
+Example: 
+Authorization: Bearer accessToken
 
 
 ---
