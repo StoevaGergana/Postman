@@ -76,8 +76,6 @@ Bug reports were documented and tracked in Jira.
 
 Test cases and execution results were organized in TestRail.
 
-<img src="screenshots/testrail/testrail-testcases.png" width="700">
-
 ---
 
 ## 📸 API Testing (Postman)
@@ -85,21 +83,21 @@ Test cases and execution results were organized in TestRail.
 ### ✅ Create Task - Success (201 Created)
 This test verifies successful task creation with valid data.
 
-<img src="screenshots/postman/create-task-success.png" width="600">
+<img src="screenshots/postman/1_create_task_valid_data.png" width="600">
 
 ---
 
 ### ❌ Create Task - Missing Title (400 Bad Request)
 This test verifies validation of required fields.
 
-<img src="screenshots/postman/create-task-fail.png" width="600">
+<img src="screenshots/postman/2_create_task_missing_title.png" width="600">
 
 ---
 
 ### 🔐 SQL Injection Test
 This test verifies protection against malicious input.
 
-<img src="screenshots/postman/sql-injection.png" width="600">
+<img src="screenshots/postman/3_sql_injection_search.png" width="600">
 
 ---
 
